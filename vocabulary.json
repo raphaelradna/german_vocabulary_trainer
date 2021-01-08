@@ -1,0 +1,17 @@
+{
+    "1": {
+        "der Hund (m.)": "dog",
+        "die Katze (f.)": "cat",
+        "der Vogel (m.)": "bird"
+    },
+    "2": {
+        "glücklich": "happy",
+        "traurig": "sad",
+        "wütend": "angry"
+    },
+    "3": {
+        "leben": "to live",
+        "lachen": "to laugh",
+        "lieben": "to love"
+    }
+}
