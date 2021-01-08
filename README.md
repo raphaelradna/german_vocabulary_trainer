@@ -4,7 +4,7 @@ I wrote this simple program to quiz myself on vocabulary while learning German a
 
 ## Prerequisites
 
-This program runs in Python, which can be downloaded from python.org, or via a platform-dependent package manager, e.g. [Homebrew](https://brew.sh/) on macOS. It aso requires you to use pip to install pyttsx3, which provides text-to-speech functionality. Once Python and pip are installed (pip is installed automatically with Python), run:
+This program runs in Python, which can be downloaded from python.org, or via a platform-dependent package manager, e.g. [Homebrew](https://brew.sh/) on macOS. It also requires you to use pip to install pyttsx3, which provides text-to-speech functionality. Once Python and pip are installed (pip is installed automatically with Python), run:
 
 ```
 pip3 install pyttsx3
@@ -14,7 +14,7 @@ to add the text-to-speech package.
 
 ## Installing
 
-Simply move ```german_vocabaulary_trainer.py``` and ```vocabulary.json``` to the desired directory on your system.
+Simply move ```german_vocabulary_trainer.py``` and ```vocabulary.json``` to the desired directory on your system.
 
 ## Running
 
@@ -36,4 +36,4 @@ You can define your own wordsets by editing ```vocabulary.json``` in a standard 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0; see [here](LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0; see [LICENSE](LICENSE) for details.
