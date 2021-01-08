@@ -36,4 +36,4 @@ You can define your own wordsets by editing ```vocabulary.json``` in a standard 
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0; see [LICENSE.md](LICENSE.md) for details.
+This project is licensed under the GNU General Public License v3.0; see [here](LICENSE) for details.
